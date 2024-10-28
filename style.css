@@ -1,0 +1,18 @@
+body{ 
+    background-color:lightskyblue;
+}
+
+.titulo{
+    margin: 5%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    box-shadow: 2px 2px 2px;
+}
+
